@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\bin\Debug\EchoProgram.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\obj\Debug\EchoProgram.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\bin\Debug\EchoProgram.exe
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\bin\Debug\EchoProgram.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\obj\Debug\EchoProgram.exe
+c:\users\administrator\documents\visual studio 2015\Projects\EchoProgram\EchoProgram\obj\Debug\EchoProgram.pdb
